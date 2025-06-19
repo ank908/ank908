@@ -2,12 +2,12 @@
 <p align="center">
   <img src="technologies.png" alt="Banner Image" width="100%"/>
 </p>
-<img align="right" src="https://komarev.com/ghpvc/?username=ank908&label=visitors&color=brightgreen&style=flat&abbreviated=true" height = "30" alt="visitors" />
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=1000&size=30&duration=3000&pause=100&color=F7E7DB&repeat=false&width=300&lines=Hey+there+%F0%9F%91%8B%2C+I'm" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=1000&size=30&duration=3000&pause=100&color=F7E7DB&repeat=false&width=320&lines=Hey+there+%F0%9F%91%8B%2C+I'm " alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=1000&size=30&duration=3000&pause=100&color=5899F7&width=350&lines=Ankur+Kumar;Backend+Developer" alt="Typing SVG" /></a>
-</h1>
+</p>
+<img align="right" src="https://komarev.com/ghpvc/?username=ank908&label=visitors&color=brightgreen&style=flat&abbreviated=true" height = "30" alt="visitors" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=1000&size=22&duration=2000&pause=1000&color=F97316&center=true&width=500&lines=Java+%7C+SpringBoot+%7C+Microservices;Kafka+%7C+RabbitMQ+%7C+Docker+%7C+AWS;MySQL+%7C+MongoDB+%7C+Hibernate" alt="Typing SVG" /></a>
